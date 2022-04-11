@@ -1,0 +1,42 @@
+{
+  "name": "homebridge-tuya-zn",
+  "version": "2.0.1",
+  "description": "🏠 Customized version of homebridge-tuya for TuyAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tuya-lan": "./bin/cli.js",
+    "tuya-lan-find": "./bin/cli-find.js",
+    "tuya-lan-decode": "./bin/cli-decode.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iRayanKhan/homebridge-tuya.git"
+  },
+  "author": "Rayan Khan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iRayanKhan/homebridge-tuya/issues"
+  },
+  "homepage": "https://github.com/iRayanKhan/homebridge-tuya#readme",
+  "dependencies": {
+    "async": "^3.1.0",
+    "commander": "^3.0.1",
+    "fs-extra": "^8.1.0",
+    "json5": "^2.1.0",
+    "qrcode": "^1.4.1",
+    "yaml": "^1.6.0"
+  },
+  "keywords": [
+    "homebridge-plugin",
+    "homebridge",
+    "homebridge-tuya",
+    "tuya"
+  ],
+  "engines": {
+    "homebridge": ">=0.4.0",
+    "node": ">=8.6.0"
+  }
+}
