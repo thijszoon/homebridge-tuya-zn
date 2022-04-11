@@ -4,7 +4,7 @@ Customized version of [homebridge-tuya](https://github.com/iRayanKhan/homebridge
 
 ## Credits
 
-iRayanKah - Author of the excellent [homebridge-tuya](https://github.com/iRayanKhan/homebridge-tuya) [Homebridge](https://homebridge.io) plugin.
+iRayanKhan - Author of the excellent [homebridge-tuya](https://github.com/iRayanKhan/homebridge-tuya) plugin for [Homebridge](https://homebridge.io).
 
 CodeTheWeb - Original repo
 
