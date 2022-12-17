@@ -1,6 +1,6 @@
 {
   "name": "homebridge-tuya-zn",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "🏠 Customized version of homebridge-tuya for TuyAPI",
   "main": "index.js",
   "scripts": {
